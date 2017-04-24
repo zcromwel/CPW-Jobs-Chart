@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map https://zcromwel.github.io/CWP-Jobs-Chart/
+- Leaflet Map https://kennycheung1.github.io/CWP-Jobs-Chart/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1qunjpOI9IMjr-G8jlmwdC08rc8wv6M9JHXpn_huJ6no/edit#gid=603666405
 
 ## Create your own
